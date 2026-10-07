@@ -31,17 +31,17 @@ The analysis included identifying hosts, interpreting DNS queries, recognizing T
   3. Examine firewall rules affecting UDP port 53.
   4. Collect additional packet evidence and repeat the affected queries.
  
-  ## Skills Practiced
-     - Linux command line and tcpdump
-     - DNS and TCP/IP traffice interpretation
-     - ICMP and HTTP analysis
-     - Network troubleshooting
-     - Evidence based documentation
+## Skills Practiced
+   - Linux command line and tcpdump
+   - DNS and TCP/IP traffice interpretation
+   - ICMP and HTTP analysis
+   - Network troubleshooting
+   - Evidence based documentation
     
-  ## Lesson
+## Lesson
   This project strengthened my ability to follow network communications, distinguish successful traffic from errors, and document findings without assuming an unconfirmed root cause.
 
-  ## Evidence
+## Evidence
 
   ### tcpdump Packet Analysis
   ![tcpdump Packet Analysis](https://github.com/aaronm-cyber/network-traffic-analysis-lab/blob/main/Network%20Capture%20tcpdump.png?raw=true)
@@ -49,5 +49,5 @@ The analysis included identifying hosts, interpreting DNS queries, recognizing T
   ### Full Lab Report
   [View Full Network Traffic Analysis Report (PDF)](https://github.com/aaronm-cyber/network-traffic-analysis-lab/blob/main/Network%20Traffic%20Analysis%20-%20DNS%20Resolution%20Failure%20Investigation.pdf)
   
-  ## Lab Transparency
+## Lab Transparency
   This project was conducted in a simulated lab environment using an AI generated packet capture for educational purposes.
