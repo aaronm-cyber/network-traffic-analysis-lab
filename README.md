@@ -9,10 +9,10 @@ This project documents an investigation of a simulated network connectivity issu
 - tcpdump
 - AI generated packet capture (`case_02_capture.pcap`)
 
-  ## Scenario
+## Scenario
   A workstation experiences failures accessing certain network resources while other network activity continues to function. The objective was to identify what the packet evidence reveals about the failure.
 
-  ## Investigation
+## Investigation
   The capture was analyzed using:
   ```bash
   tcpdump -r /home/aaron/case_02_capture.pcap
