@@ -44,7 +44,7 @@ The analysis included identifying hosts, interpreting DNS queries, recognizing T
   ## Evidence
 
   ### tcpdump Packet Analysis
-  ![tcpdump Packet Analysis]
+  ![tcpdump Packet Analysis](https://github.com/aaronm-cyber/network-traffic-analysis-lab/blob/main/Network%20Capture%20tcpdump.png?raw=true)
 
   ### Full Lab Report
   [View Full Network Traffic Analysis Report (PDF)](https://github.com/aaronm-cyber/network-traffic-analysis-lab/blob/main/Network%20Traffic%20Analysis%20-%20DNS%20Resolution%20Failure%20Investigation.pdf)
