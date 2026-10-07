@@ -40,6 +40,14 @@ The analysis included identifying hosts, interpreting DNS queries, recognizing T
     
   ## Lesson
   This project strengthened my ability to follow network communications, distinguish successful traffic from errors, and document findings without assuming an unconfirmed root cause.
-    
+
+  ## Evidence
+
+  ### tcpdump Packet Analysis
+  ![tcpdump Packet Analysis]
+
+  ### Full Lab Report
+  [View Full Network Traffic Analysis Report (PDF)]
+  
   ## Lab Transparency
   This project was conducted in a simulated lab environment using an AI generated packet capture for educational purposes.
