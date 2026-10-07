@@ -47,7 +47,7 @@ The analysis included identifying hosts, interpreting DNS queries, recognizing T
   ![tcpdump Packet Analysis]
 
   ### Full Lab Report
-  [View Full Network Traffic Analysis Report (PDF)]
+  [View Full Network Traffic Analysis Report (PDF)](https://github.com/aaronm-cyber/network-traffic-analysis-lab/blob/main/Network%20Traffic%20Analysis%20-%20DNS%20Resolution%20Failure%20Investigation.pdf)
   
   ## Lab Transparency
   This project was conducted in a simulated lab environment using an AI generated packet capture for educational purposes.
