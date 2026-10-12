@@ -33,7 +33,7 @@ The analysis included identifying hosts, interpreting DNS queries, recognizing T
  
 ## Skills Practiced
    - Linux command line and tcpdump
-   - DNS and TCP/IP traffice interpretation
+   - DNS and TCP/IP traffic interpretation
    - ICMP and HTTP analysis
    - Network troubleshooting
    - Evidence based documentation
